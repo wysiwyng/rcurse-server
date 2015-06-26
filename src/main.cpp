@@ -22,4 +22,8 @@ int main(int argc, char* argv[]) {
 	}
 	std::cout << "starting server on port " << port << std::endl;
 
+	while(1) {
+		std::cout << "> ";
+		std::getline(std::cin, inp);
+	}
 }
