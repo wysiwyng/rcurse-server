@@ -1,8 +1,8 @@
 /*
  * Server.cpp
  *
- *  Created on: Jun 26, 2015
- *      Author: wysiwyng
+ *  Created on: 26.06.2015
+ *      Author: karsten
  */
 
 #include "Server.h"
